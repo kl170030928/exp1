@@ -1,4 +1,4 @@
-num1 = 15
+num1 = 20
 num2 = 12
 
 # Adding two nos 
